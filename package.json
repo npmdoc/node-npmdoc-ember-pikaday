@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### api documentation for  ember-pikaday (v2.2.2)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-pikaday.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-pikaday) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-pikaday.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-pikaday)",
+    "description": "#### api documentation for  [ember-pikaday (v2.2.2)](https://github.com/edgycircle/ember-pikaday#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-pikaday.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-pikaday) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-pikaday.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-pikaday)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "ember-pikaday": "*",
@@ -35,5 +35,5 @@
         "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.2"
+    "version": "2017.4.23"
 }
